@@ -16,9 +16,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varshithahify&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=varshithahify&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithahify&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithahify&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=varshithahify&theme=radical&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=varshithahify&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
