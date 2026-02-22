@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vn-varshitha03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varshithavn26@gmail.com) 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vn-varshiitha03)
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:varshithavn26@gmail.com)
 
 
 ## 💻 Tech Stack
