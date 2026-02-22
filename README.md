@@ -9,6 +9,11 @@
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:varshithavn26@gmail.com)
 
+## 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/vnvarshitha-03)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user//)
 
 ## 💻 Tech Stack
 
