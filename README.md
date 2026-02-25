@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vn-varshiitha03)
 
@@ -34,5 +34,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=varshithahify&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshithashy&theme=radical)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshithashy&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
