@@ -26,20 +26,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithashy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithahify&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=varshithashy&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=varshithahify&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithashy&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithahify&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=varshithashy&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=varshithahify&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6)
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=varshithashy&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=86400)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=varshithahify&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=86400)
