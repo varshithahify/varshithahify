@@ -34,11 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-https://github-profile-trophy.vercel.app/?username=varshithahify
----
-
 ## 🔝 Top Contributed Repo
 
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=varshithahify&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=86400)
