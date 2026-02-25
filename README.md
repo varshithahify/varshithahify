@@ -30,14 +30,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=varshithahify&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithahify&layout=compact&theme=radical&hide_border=true)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=varshithahify&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6)
-
+https://github-profile-trophy.vercel.app/?username=varshithahify
 ---
 
 ## 🔝 Top Contributed Repo
