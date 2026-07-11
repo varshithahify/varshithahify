@@ -1,4 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshithahify&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithahify&layout=compact)
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
