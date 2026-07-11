@@ -1,2 +1,3 @@
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/varshithahify/varshithahify/output/github-contribution-grid-snake.svg)
