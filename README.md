@@ -17,7 +17,7 @@ software solutions, backend systems, and AI-driven applications.
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### Backend & Frameworks
@@ -27,12 +27,12 @@ software solutions, backend systems, and AI-driven applications.
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ appliances during potentially unsafe storm conditions.
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/vn-varshitha03">
+  <a href="https://www.linkedin.com/in/vnvarshitha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/varshithahify">
