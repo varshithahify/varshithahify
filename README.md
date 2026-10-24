@@ -82,7 +82,7 @@ A full-stack payment reconciliation platform built to detect, investigate, and r
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/varshithahify?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/></a>
+  <a href="https://github.com/varshithahify?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://github.com/varshithahify"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
   <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
