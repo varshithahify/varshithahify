@@ -78,26 +78,21 @@ A full-stack payment reconciliation platform built to detect, investigate, and r
 ---
 
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>&nbsp;
-  <a href="https://github.com/varshithahify?tab=followers">
-    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-  </a>&nbsp;
-  <a href="https://github.com/varshithahify">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/vnvarshitha">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/vnvarshitha">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/varshithahify?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub"/></a>
+  <a href="https://github.com/varshithahify"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+  <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/></a>
 </p>
+
+<p align="center">
+  🌱 Code. Create. Learn. Grow. 🚀
+</p>
+
 
 ---
 
