@@ -57,35 +57,54 @@ appliances during potentially unsafe storm conditions.
 
 🔗 [View Project](https://github.com/varshithahify/Arduino-Based-Smart-Appliance-Protection-System-for-Storm-and-Surge-Detection)
 
+### 💳 PayFlow AI — AI-Powered Payment Reconciliation Platform
+
+A full-stack payment reconciliation platform built to detect, investigate, and resolve discrepancies between internal transaction records and external payment or settlement systems. Designed with event-driven processing and AI-assisted investigation to reduce manual effort and improve payment reliability.
+
+**Key Features:**
+
+* 🔍 Automated detection of payment discrepancies
+* ⚡ Event-driven transaction processing using Apache Kafka
+* 📊 Real-time payment monitoring dashboard
+* 🤖 AI-assisted discrepancy investigation using Spring AI
+* 🔐 Secure REST APIs with role-based access control
+* 🚨 Failed-event handling and Dead Letter Queue (DLQ) monitoring
+* ⚙️ Redis-based caching for improved performance
+
+**Tech:** Java 21 • Spring Boot • Spring Security • Spring Data JPA • React • Redux • PostgreSQL • Apache Kafka • Redis • Spring AI • Docker
+
+🔗 [View Project](https://github.com/varshithahify/payflow-ai)
+
+---
+
+
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=varshithahify">
-    <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/varshithahify?tab=followers">
-    <img src="https://img.shields.io/github/followers/varshithahify?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vnvarshitha" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://github.com/varshithahify" target="_blank">
     <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/vnvarshitha">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vnvarshitha">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://github.com/varshithahify">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vnvarshitha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
+  <i>💡 Open to Software Engineering Internships, Backend Development, and Full-Stack Opportunities.</i>
+  <br/>
+  <i>Building. Learning. Improving. 🚀</i>
 </p>
 
 ---
