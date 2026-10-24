@@ -87,11 +87,6 @@ A full-stack payment reconciliation platform built to detect, investigate, and r
   <a href="mailto:varshithavn26@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  🌱 Code. Create. Learn. Grow. 🚀
-</p>
-
-
 ---
 
 <p align="center">
