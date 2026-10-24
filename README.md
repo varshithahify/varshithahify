@@ -58,6 +58,46 @@ appliances during potentially unsafe storm conditions.
 🔗 [View Project](https://github.com/varshithahify/Arduino-Based-Smart-Appliance-Protection-System-for-Storm-and-Surge-Detection)
 
 ---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=varshithahify">
+    <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/varshithahify?tab=followers">
+    <img src="https://img.shields.io/github/followers/varshithahify?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vnvarshitha" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://github.com/varshithahify" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vnvarshitha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Open to Software Engineering Internships, Backend Development, and Full-Stack Opportunities.</i>
+  <br/>
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
