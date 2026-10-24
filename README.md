@@ -77,18 +77,6 @@ A full-stack payment reconciliation platform built to detect, investigate, and r
 
 ---
 
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/varshithahify?tab=followers"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-P0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:varshithavn26@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
 <p align="center">
   <i>💡 Open to Software Engineering Internships, Backend Development, and Full-Stack Opportunities.</i>
   <br/>
@@ -103,15 +91,15 @@ A full-stack payment reconciliation platform built to detect, investigate, and r
   <img src="https://streak-stats.demolab.com/?user=varshithahify&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/vnvarshitha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/varshithahify">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varshithahify&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/varshithahify?tab=followers"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vnvarshitha"><img src="https://img.shields.io/badge/LinkedIn-P0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:varshithavn26@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
